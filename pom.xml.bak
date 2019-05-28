@@ -45,7 +45,6 @@
               <tasks>
           <echo>===========</echo>
           <echo>package phase</echo>
-          <echo>=============</echo>
             </tasks>
             </configuration>
           </execution>
